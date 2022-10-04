@@ -1,0 +1,23 @@
+:root{
+    --black: #000000;
+    --muted: #6C757D;
+    --light: #F2F1EF;
+    --white: #FFFFFF;
+    --primary: #FF4F11;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/** Mario */
+
+/** Virbe y Jonh */
+
+/** Miguel */
